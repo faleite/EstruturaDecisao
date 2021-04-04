@@ -28,6 +28,15 @@ _Obs. Este é um repositório que utilizei para fazer a resolução dos exercíc
 |[Ex. 16](https://github.com/faleite/EstruturaDecisao/blob/main/enunciados/16.py)|[Ex. 16](https://github.com/faleite/EstruturaDecisao/blob/main/exercicios/16.py)| :heavy_check_mark:| 
 |[Ex. 17](https://github.com/faleite/EstruturaDecisao/blob/main/enunciados/17.py)|[Ex. 17](https://github.com/faleite/EstruturaDecisao/blob/main/exercicios/17.py)| :heavy_check_mark:| 
 |[Ex. 18](https://github.com/faleite/EstruturaDecisao/blob/main/enunciados/18.py)|[Ex. 18](https://github.com/faleite/EstruturaDecisao/blob/main/exercicios/18.py)| :heavy_check_mark:| 
-
+|[Ex. 19](https://github.com/faleite/EstruturaDecisao/blob/main/enunciados/10.py)|[Ex. 19](https://github.com/faleite/EstruturaDecisao/blob/main/exercicios/19.py)| :heavy_check_mark:|
+|[Ex. 20](https://github.com/faleite/EstruturaDecisao/blob/main/enunciados/10.py)|[Ex. 20](https://github.com/faleite/EstruturaDecisao/blob/main/exercicios/20.py)| :heavy_check_mark:|
+|[Ex. 21](https://github.com/faleite/EstruturaDecisao/blob/main/enunciados/11.py)|[Ex. 21](https://github.com/faleite/EstruturaDecisao/blob/main/exercicios/21.py)| :heavy_check_mark:|
+|[Ex. 22](https://github.com/faleite/EstruturaDecisao/blob/main/enunciados/12.py)|[Ex. 22](https://github.com/faleite/EstruturaDecisao/blob/main/exercicios/22.py)| :heavy_check_mark:|
+|[Ex. 23](https://github.com/faleite/EstruturaDecisao/blob/main/enunciados/13.py)|[Ex. 23](https://github.com/faleite/EstruturaDecisao/blob/main/exercicios/23.py)| :heavy_check_mark:|
+|[Ex. 24](https://github.com/faleite/EstruturaDecisao/blob/main/enunciados/14.py)|[Ex. 24](https://github.com/faleite/EstruturaDecisao/blob/main/exercicios/24.py)| :heavy_check_mark:|
+|[Ex. 25](https://github.com/faleite/EstruturaDecisao/blob/main/enunciados/15.py)|[Ex. 25](https://github.com/faleite/EstruturaDecisao/blob/main/exercicios/25.py)| :heavy_check_mark:|
+|[Ex. 26](https://github.com/faleite/EstruturaDecisao/blob/main/enunciados/16.py)|[Ex. 26](https://github.com/faleite/EstruturaDecisao/blob/main/exercicios/26.py)| :heavy_check_mark:|
+|[Ex. 27](https://github.com/faleite/EstruturaDecisao/blob/main/enunciados/17.py)|[Ex. 27](https://github.com/faleite/EstruturaDecisao/blob/main/exercicios/27.py)| :heavy_check_mark:|
+|[Ex. 28](https://github.com/faleite/EstruturaDecisao/blob/main/enunciados/18.py)|[Ex. 28](https://github.com/faleite/EstruturaDecisao/blob/main/exercicios/28.py)| :heavy_check_mark:|
 ### Suportada versão de Python 3.9
 
